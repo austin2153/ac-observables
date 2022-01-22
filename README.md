@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
+Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation 
+of change (Wikipedia). RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using 
+observables that makes it easier to compose asynchronous or callback-based code.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
