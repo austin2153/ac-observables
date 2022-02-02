@@ -43,6 +43,9 @@ export class AppComponent implements OnInit {
     subject.subscribe(console.log)
     subject.subscribe(console.log)
     subject.next(Math.random());
+
+  
+
   }
 
 
